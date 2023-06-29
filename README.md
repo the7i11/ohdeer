@@ -35,3 +35,10 @@ In case you want to build your own devices from this, you should find everything
 
 As a first draft, I developed the project around the STM8F103 microcontroller. Back in the day, it way readily available and cheap. 
 The second iteration will be using a Risc V controller from CHT (CH32V003), which has become famous for being one of the cheapest general-purpose µCs there is.
+
+## Getting started
+
+To actually build the devices on your own / contribute to the project, please follow the guides for each HW iteration:
+
+- [1. Iteration](doc/1.0_Getting_Started.md)
+- [1. Iteration](doc/2.0_Getting_Started.md)
